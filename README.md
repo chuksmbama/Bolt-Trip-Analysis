@@ -145,3 +145,8 @@ However, the year was also defined by a major challenge: high cancellations, whi
 - Power BI
 - Excel
 - Github
+<img width="1485" height="825" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/fb0e8702-eef0-47a5-a7dd-1ce4ebcbf3b9" />
+<img width="1489" height="828" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/d2972388-f7ac-465d-8127-df0b02ff2af1" />
+<img width="1479" height="743" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/cb80135c-8156-45a7-9937-27027294a94e" />
+
+
